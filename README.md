@@ -1,2 +1,5 @@
 # File_Laporan_Akhir_DSRT_Voltage_Divider_Muhammad_Fairuzzaki
 Muhammad Fairuzzaki Setyawan
+5022231114
+Kelompok 10
+Keseluruhan Kebutuhan File untuk Desain Laporan Akhir
